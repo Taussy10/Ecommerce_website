@@ -1,2 +1,1 @@
-[Ecommerce_website] [https://shoer.netlify.app/]
-[Ecommerce_website][https://shoer.netlify.app/]
+Ecommerce Website: https://shoer.netlify.app/
